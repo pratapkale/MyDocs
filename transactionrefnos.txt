@@ -1,0 +1,1827 @@
+AxisBank
+Hot Payment Successful. Your Payment Confirmation Number is 25165919
+
+Hot Payment Successful. Your Payment Confirmation Number is 1478535 from ANDB
+
+AndhraBank
+Hot Payment Successful. Your Payment Confirmation Number is 25165961
+
+Hot Payment Successful. Your Payment Confirmation Number is 25174159
+
+
+
+12/09/2013
+Raja Rao-->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 26279326. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+Kondoji Rao-->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 26279608. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+NagaRaju-->Funds Transfer is successful.Your Transaction No. is 27071258
+
+
+25/09/2013
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 26603590. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+01/10/2013
+HDFC BANK 15k
+Hot Payment Successful. Your Payment Confirmation Number is 25835227 
+
+AndhraBank 31k
+Hot Payment Successful. Your Payment Confirmation Number is 25835311 
+
+
+To Axis Bank from AndhraBank 
+Hot Payment Successful. Your Payment Confirmation Number is 1533333
+
+To Murali Krishna 
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 26828594. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+To HDFC 13k
+Hot Payment Successful. Your Payment Confirmation Number is 25914670 
+
+From HDFC to AxisBank 13k
+Reference Number: 0777276132544970
+
+
+
+10/10/2013
+To K Raja Rao
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 27236099. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+To Kondoji Rao
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 27236309. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+To Nagaraju
+Funds Transfer is successful.Your Transaction No. is 27729591
+
+To Sampath Reddy Chitti
+Funds Transfer is successful.Your Transaction No. is 455814
+
+From HDFC to Axis Bank to Pratap
+Reference Number: 0777283133450612
+
+11/10/2013
+From  Axis Bank To KH Bhingarkar
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 27281555. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+21/10/2013
+House Rent to K.H.Bingarkar
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 27498645. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+Credit Card Payment
+Reference No.: 6852A1 
+
+01/11/2013
+From IDBI to Axis: Hot Payment Successful. Your Payment Confirmation Number is 26969901 
+
+From IDBI to HDFC: Hot Payment Successful. Your Payment Confirmation Number is 26970212 
+
+
+05/11/2013
+
+From HDFC to Axis Reference Number: 0777309135771340
+
+Axis to Andhrabank Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 27976671. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(Failed)
+
+06/11/2013
+Rent -->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 28026582. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+Axis to AndhraBank Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 28027098. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option. (failed)
+
+Axis to HDFC Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 28045691. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+07/11/2013
+
+HDFC to ANDB Reference Number: 0777311136077219 test and Reference Number: 0777311136094352
+
+08/11/2013
+Credit Card Payment-->Reference No.: 3352A1 
+
+IDBI to Axis -->Hot Payment Successful. Your Payment Confirmation Number is 27219158
+
+11/11/2013
+Axis to Raja Rao -->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 28197706. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+Axis to Kondoji Rao -->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 28197926. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+Axis to Naga Raju --> Funds Transfer is successful.Your Transaction No. is 28433313
+ANDB to Sampath Reddy --> 479502  11/11/13 11:18 AM  107010100027262  111910025036744  1,000.00  
+
+02/12/2013
+
+IDBI to AXis -->Hot Payment Successful. Your Payment Confirmation Number is 27978706 
+IDBI to HDFC -->Hot Payment Successful. Your Payment Confirmation Number is 27980720 
+IDBI to IDBI --> 7k to Ganesh (Given By Cash)
+
+03/12/2013
+IDBI to ANDB -->Hot Payment Successful. Your Payment Confirmation Number is 28028210
+
+06/12/2013
+Axis to Rent--> Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 28973938. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+10/12/2013
+Axis to M.NagaRaju--> Funds Transfer is successful.Your Transaction No. is 29106521
+Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 29110569. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+ANBD to G. Sampath Reddy -->Funds Transfer is successful.Your Transaction No. is 503637
+
+
+02/10/2014
+IDBI to HDFC 5k-->Hot Payment Successful. Your Payment Confirmation Number is 29065949 
+IDBI to ANDB 7k-->Hot Payment Successful. Your Payment Confirmation Number is 29066098 
+IDBI to AXIS 20k-->Hot Payment Successful. Your Payment Confirmation Number is 29066243 
+
+08/01/2014
+Axis to Rent --->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 30000030. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+Axis to Raja Rao --->4k Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 30000309. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+Axis to NagaRaj----> 	Your Funds Transfer has been Logged successfully. Please note the Reference ID : 29772509 for all future communication.
+
+ANBD to G. Sampath Reddy -->Funds Transfer is successful.Your Transaction No. is 529491 
+
+13/01/2014
+HDFC to CCard Payment--->Reference No.: 9632A1 
+
+14/01/2014
+Axis to Kondoji Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 30185631. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+
+03/02/2014
+IDBI to HDFC --->   Hot Payment Successful. Your Payment Confirmation Number is 30240344 (35K)
+04/02/2014
+IDBI to Axis --->    Hot Payment Successful. Your Payment Confirmation Number is 30289647 (17K)
+IDBI to ANDB --->    Hot Payment Successful. Your Payment Confirmation Number is 30289855 (3k)
+
+10/02/2014
+Axis to Rent --->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31008587. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(7k)
+Axis to M Nagaraj ---> Funds Transfer is successful.Your Transaction No. is 30505899 (4k)
+
+12/02/2014
+ANBD to G. Sampath Reddy -->Funds Transfer is successful.Your Transaction No. is 561300(1K)
+
+Axis to Raja Rao --->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31079676. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+Axis to Kondoji Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31079794. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(3K)
+
+18/02/2014
+HDFCBANK to CCPayment--->Reference No.: 3139A1 (28510.55)
+---------------------------March-----------------------------------------------------------
+05/03/2014
+IDBI to AXIS-->Hot Payment Successful. Your Payment Confirmation Number is 31462766 (20K)
+IDBI to HDFC-->Hot Payment Successful. Your Payment Confirmation Number is 31462935 (10K)
+
+06/03/2014
+AXIS to RENT -->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31775027. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(7K)
+
+AXIS to AMMA-->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31775195. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(2K).
+
+IDBI to Murali Krishna-->  Hot Payment Successful. Your Payment Confirmation Number is 31542950 (5K)
+10/03/2014
+AXIS to NagaRaju --> 	Your Funds Transfer has been Logged successfully. Please note the Reference ID : 31150621 for all future communication.
+
+12/03/2014
+AXIS to Raja Rao-->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31988340. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+AXIS to Kondoji Rao-->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 31988475. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(3K)
+
+----------------------------April------------------------------------
+02/04/2014
+IDBI to AXIS BANK--->Hot Payment Successful. Your Payment Confirmation Number is 32686023(30K)
+IDBI to HDFC BANK--->Hot Payment Successful. Your Payment Confirmation Number is 32686466(10K)
+IDBI to ANDB----> Hot Payment Successful. Your Payment Confirmation Number is 3268(2K)
+
+07/04/2014
+AXIS to M NAGARAJ--->Your Funds Transfer has been Logged successfully. Please note the Reference ID : 31784905 for all future communication.(4K)
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 32758271. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(7K)
+ANDB to G. Sampath Reddy -->Funds Transfer is successful.Your Transaction No. is 616118(Rs:1175/-)
+
+09/04/2014
+Axis to Raja Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 32846842. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+AXIS to KondojiRao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 32846943. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(3K)
+
+AXIS to Amma--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 32847023. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+18/04/2014
+HDFC to Credit card--->Reference No.: 1838A1 
+
+--------------------------MAY 2014-------------------------
+01/05/2014
+IDBI to Axis--->Hot Payment Successful. Your Payment Confirmation Number is 33902274 (30K)
+IDBI to HDFC---->Hot Payment Successful. Your Payment Confirmation Number is 33902413(10K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 33902474 (2K)
+IDBI to INGVySya--->Hot Payment Successful. Your Payment Confirmation Number is 33902541 (100/-)
+
+05/05/2014
+AXIS to RENT--->Your Funds Transfer has been Lo00ed successfully. Please note the Reference ID : 33544989 for all future communication.(7K)
+AXIS to M NAGARAJ--->Your Funds Transfer has been Logged successfully. Please note the Reference ID : 32371501 for all future communication.(4K)
+
+06/05/2014
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 33598213. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+AXIS to Raja Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 33598464. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+AXIS to Kondoji Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 33598844. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(3K)
+ANDB to G. Sampath Reddy -->Funds Transfer is successful.Your Transaction No. is 645402(Rs:1200/-)
+
+12/05/2014
+HDFC to Creditcard payment-->Reference No.: 1295A1 ( Rs:6,884.79/-)
+
+14/05/2014
+CreditCard limit increased Reference No.	15799
+
+-----------------------------JUNE 2014------------------
+04/06/2014
+IDBI to AXIS --->Hot Payment Successful. Your Payment Confirmation Number is 35309091 (30K)
+IDBI to HDFC --->Hot Payment Successful. Your Payment Confirmation Number is 35309261 (10K)
+IDBI to ANDB --->Hot Payment Successful. Your Payment Confirmation Number is 35309370 (2K)
+
+09/06/2014
+ANDB to G. Sampath Reddy -->Funds Transfer is successful.Your Transaction No. is 680058(Rs:2475/-)
+
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 34641088. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(7K)
+
+AXIS to Raja Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 34641240. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+12/06/2014
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 34754053. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+AXIS to Kondoji Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 34754282. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(3K)
+
+17/06/2014
+AXIS to HDFC--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 34870635. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(40K)
+19/06/2014
+AXIS to HDFC--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 34920277. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(24K)
+HDFC to Creditcard payment-->Reference No.: 9756A1 ( Rs:75868.14/-)
+
+--------------------JULY 2014----------------------------------
+02/07/2014
+IDBI to AXIS --->Hot Payment Successful. Your Payment Confirmation Number is 36583391 (30K)
+IDBI to HDFC --->Hot Payment Successful. Your Payment Confirmation Number is 36583571 (10K)
+IDBI to ANDB ---> Hot Payment Successful. Your Payment Confirmation Number is 36583686 (2K)
+
+09/07/2014
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 35609765. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(7K)
+
+AXIS to M NAGARAJ--->Funds Transfer is successful.Your Transaction No. is 33889389 (4300/-)
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 35610020. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.
+
+15/07/2014
+AXIS to Kondoji Rao--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 35775695. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(3K)
+
+17/07/2014
+HDFC to Credit Card--->Reference No.: 9033A1 (10,466.56/-)
+
+
+-------------------------- AUGUST 2014---------------
+01/08/2014
+IDBI to AXIS ---> Hot Payment Successful. Your Payment Confirmation Number is 38021070(30K).
+IDBI to HDFC --->Hot Payment Successful. Your Payment Confirmation Number is 38021361(10K)
+IDBI to ANDB --->Hot Payment Successful. Your Payment Confirmation Number is 38021556(2K)
+
+07/08/2014
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 36497112. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(8K)
+
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 36497244. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+AXIS to M NAGARAJ--->Funds Transfer is successful.Your Transaction No. is 34546084(4K)
+
+
+18/08/2014
+HDFC to CreditCard Payment--->Reference No.: 7776A1 
+
+----------------SEPTEMBER 2014---------------
+IDBI to AXIS---->Hot Payment Successful. Your Payment Confirmation Number is 39599411(30K)
+
+IDBI to HDFC---->Hot Payment Successful. Your Payment Confirmation Number is 39599650(20K)
+
+09/09/2014
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 37527468. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(8K)
+
+AXIS to Chitti Guravaiah--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 37527696. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(1K)
+
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 37527863. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+
+IDBI to Srikanth [11051]  Funds Transfer is successful.Your Transaction No. is 9581431(1K)
+IBDI to Srikanth [11051]  Funds Transfer is successful.Your Transaction No. is 9581658(9K)
+
+HDFC to CreditCard Payment---> Reference No.: 1043A1(17,823.02/-)
+
+10/09/2014
+AXIS to Chitti Guravaiah--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 37570986. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(10K)
+
+-------------OCTOBER 2014-------------
+01/10/2014
+
+IDBI to AXIS---->Hot Payment Successful. Your Payment Confirmation Number is 40967596(32K)
+IDBI to HDFC---->Hot Payment Successful. Your Payment Confirmation Number is 40967812(15K)
+IDBI to ANDB---->Hot Payment Successful. Your Payment Confirmation Number is 40967955(2K)
+
+06/10/2014
+
+AXIS to Chitti Guravaiah--->Your transaction is successful. The IMPS transaction request Id is :1758581(11K)
+
+08/10/2014
+
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 38425680. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(8K)
+
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 38425793. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option.(2K)
+
+21/10/2014
+HDFC to Credit Card--->Reference No.: 6296A1 (6165.25/-)
+
+-----------NOVEMBER 2014-----------
+03/11/2014
+IDBI to AXIS---> Hot Payment Successful. Your Payment Confirmation Number is 42557691(30K).
+IDBI to ANDB---> Hot Payment Successful. Your Payment Confirmation Number is 42557876(20K).
+AXIS to HDFC--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 39201797. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(30K).
+
+04/11/2014
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 42611555(6K) 
+AXIS to HDFC--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 39252014. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(6K).
+
+06/11/2014
+AXIS to Chitti Guravaiah--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 39356319. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+AXIS to AMMA--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 39356456. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(2K).
+
+10/11/2014
+AXIS to RENT--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 39496542. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(6400-/).
+
+13/11/2014
+ANDB to AXIS -->Funds Transfer is successful.Your Transaction No. is 3241194(Rs:100/-)
+
+17/11/2014
+HDFC to CREDIT CARD--->Reference No.: 8114A1(43,152.82/-)
+
+-------------DECEMBER 2014-----------------
+01/12/2014
+
+IDBI to 
+AXIS---->Hot Payment Successful. Your Payment Confirmation Number is 43941602(20K)
+IDBI to HDFC---->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 43941928(20K)
+
+08/12/2014
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 40419984. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+
+
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 40420184. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(6K).
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 40420510. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(5K).
+HDFC to AMMA---->Reference Number: N342140045584279(2K).
+
+09/12/2014
+IDBI to ANDB---->Hot Payment Successful. Your Payment Confirmation Number is 44389138(2K).
+
+16/12/2014
+HDFC to CREDIT CARD--->Reference No.: 4976A1(3000/-)
+
+29/12/2014
+AXIS to Murali Charakapu --->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 40953901. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(30K,Plot booking).
+30/12/2014
+AXIS to Murali Charakapu --->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 40983453. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(20K,Plot booking).
+
+
+------------JANUARY 2015-----------
+02/10/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 45567456(20K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 45567684(20K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 45567857(2K)
+
+05/01/2015
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 41281281. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K)
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 41281537. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+
+08/01/2015
+HDFC to CREDIT CARD--->Reference No.: 8299A1(17,178.44/-)
+AXIS to AMMA---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 41458296. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(4K).
+
+09/01/2015
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 45998006(10K) Kishore
+
+---------------February 2015-------------------
+04/02/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 47274978(20K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 47275244(18K)
+AXIS to WVSR PRASAD--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 42280079. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(1K).
+AXIS to WVSR PRASAD--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 42290084. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(29K).
+
+05/02/2015
+AXIS to WVSR PRASAD--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 42344240. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(20K).
+
+09/02/2015
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 42476650. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 42476796. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+AXIS to Dinesh Mali--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 42477358. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(5K).
+
+11/02/2015
+AXIS to AMMA---->Hot Payment Successful. Your Payment Confirmation Number is 47697001(2K)
+
+-----------------March 2015--------------
+04/03/2015
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 48782538(31K)
+IDBI to AXIS--->[15056]  Hot Payment Successful. Your Payment Confirmation Number is 48782935(19K)
+
+05/03/2015
+IDBI to BAVA--->Hot Payment Successful. Your Payment Confirmation Number is 48852775 (3.5K)
+
+09/03/2015
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 43432963. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 43433117. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+
+11/03/2015
+HDFC to CREDIT CARD--->Reference No.: 1584A1(30,619.25/-)
+
+-----------APRIL 2015------------
+01/04/2015
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 50445343(20K)
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 50445524(20K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 50445725(3K)
+
+06/04/2015:
+HDFC to Murali Yash--->Reference Number N096150063700818(RS:3580/-)
+AXIS to RENT---->Your Funds Transfer has been Logged successfully. Please note theReference ID : 44293185 for all future communication(8K).
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 44293421. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+
+09/04/2015
+HDFC to CREDIT CARD--->Reference No.: 	7860A1(Rs:14,459.97/-)
+
+-----------------May 2015------------------
+IDBI to KIran D--->[11051]  Funds Transfer is successful.Your Transaction No. is 12014985 
+
+07/05/2015
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 45322222. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11k).
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 45322433. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 52451063(20K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 52451251(10K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 52451396(2K)
+
+08/05/2015
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 52533560(20K)
+11/05/2015
+IDBI to Srikanth---> [11051]  Funds Transfer is successful.Your Transaction No. is 12101841(10K)
+12/05/2015
+HDFC to CREDIT CARD--->Reference No.: 	4572A1(9075.07/-)
+
+20/05/2015
+AXIS to ANDB--->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 45698529. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(10K).
+----------------------------JUNE 2015----------------------
+01/06/2015
+
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 53757667(20K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 53757929(10K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 53758086(6K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 53758317(2K)
+
+03/06/2015
+HDFC to CREDIT CARD--->Reference No.: 	1560A1(7,437.23/-)
+
+04/06/2015
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 46173038. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 46173248. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+
+24/06/2015
+IDBI to SUNNY--->Hot Payment Successful. Your Payment Confirmation Number is 55050450(5K) 
+
+----------------------------JULY 2015----------------------
+01/07/2015
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 55433850(16K)
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 55434125(20K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 55434429(2K)
+
+02/07/2015
+HDFC to CREDIT CARD--->Reference No.: 	0653A1(14787.03/-)
+
+08/07/2015
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 47268140. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(8K).
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 47268293. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+
+09/07/2015
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 55988055(23K)
+
+24/07/2015
+IDBI to SUNNY--->Hot Payment Successful. Your Payment Confirmation Number is 56864830(3K)
+
+----------------------------AUGUST 2015----------------------
+03/08/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 57374916(21K)
+IDBI to HDFC--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 57375297(10K)
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 57375421(2K)
+IDBI to ANDB--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 57375573(6K)
+
+05/08/2015
+AXIS to Guravaiah---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 47984209. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(11K).
+AXIS to RENT---->Your NEFT request has been accepted and is under processing. Your NEFT Request Id is :- 47984284. Your account will be debited shortly. Kindly check the status of your NEFT transaction using Status Inquiry Option(9K).
+
+10/08/2015
+HDFC to CREDIT CARD--->Reference No.: 	1852A1(INR 6,927.36/-)
+
+---------------------SEPTEMBER 2015------------------------
+01/09/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 59108836(21K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 59109491(12K)
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 59109702(2K)
+IDBI to ANDB---> [25004]  Hot Payment Successful. Your Payment Confirmation Number is 59109859(6K)
+
+04/09/2015
+AXIS to Guravaiah---->Success ! Your Fund Transfer is Successful.Please note the Reference ID: 352280157 for future communication(11K).
+AXIS to RENT---->Success ! Your Fund Transfer is Successful.Please note the Reference ID: 352280403 for future communication(9K).
+
+14/09/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 59941522(10K)
+HDFC to CREDIT CARD--->Reference No.: 	3373A1(10857.90/-)
+Axis to Kondoji Rao--->Success ! Your Fund Transfer is Successful.Please note the Reference ID: 358012742 for future communication(10K).
+
+------------OCTOBER 2015-------------------
+01/10/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 60902603(23K) 
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 60902930(12K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 60903082(2K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 60903238(5K)
+
+05/10/2015
+AXIS to Guravaiah---->Success ! Your Fund Transfer is Successful.Please note the Reference ID: 367798818 for future communication.(11K)
+AXIS to RENT---->Success ! Your Fund Transfer is Successful.Please note the Reference ID: 367800177 for future communication.(9K)
+
+07/10/2015
+HDFC to CREDIT CARD--->Reference No.:2667A1(11083.27/-)
+
+---------------NVEMBER 2015----------------
+02/11/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 62844181(23K) 
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 62844320(12K)
+IDBI to ANDB--->[25004]Hot Payment Successful. Your Payment Confirmation Number is 62844571(5K)
+
+05/11/2015
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 381513741 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 381514666 for future communication(9K).
+
+12/11/2015
+HDFC to CREDIT CARD--->Reference No.:1225A1(299.61/-)
+
+---------------DECEMBER 2015----------------
+01/12/2015
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 64505710(22K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 64505875(10K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 64506002(5K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 64506190(2K)
+
+07/12/2015
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 389422818 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 389425600 for future communication(9K).
+
+HDFC to CREDIT CARD--->Reference No.:6823A1(6,745.26/-)
+
+---------------JANUARY 2016----------------
+04/01/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 66610004(24K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 66610273(12K)
+IDBI to ANDB--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 66610578(5K)
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 66610890(2K)
+IDBI to MANOJ--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 66611231(2K)
+
+05/01/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 66699544(10K)
+
+07/01/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 396806255 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 396807786 for future communication(9K).
+
+11/01/2016
+HDFC to CREDIT CARD--->Reference No.:9082A1(14,003.09/-)
+
+
+---------------FEBRUARY 2016----------------
+01/02/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 68363071(22K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 68363258(13K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 68363455(5K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 68363635(2K)
+IDBI to Sesha Kishore--->[11051]  Funds Transfer is successful.Your Transaction No. is 15159492(1300/-)
+
+
+04/02/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 401701369 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 401702163 for future communication(9K).
+
+10/02/2016
+IDBI to HDFC--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 69039901(19310.00/-)
+HDFC to CREDIT CARD--->Reference No.:3083A1 (19310.00/-)
+
+---------------MARCH 2016----------------
+01/03/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 70267857(21K)
+IDBI to HDFC--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 70268256(20K)
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 70268401(2K)
+IDBI to SRIKANTH --->[11051]  Funds Transfer is successful.Your Transaction No. is 15501551(900/-)
+
+08/03/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 407607310 for future communication(11K).
+HDFC to CREDIT CARD--->Reference No.:2865A1 (28564.66/-)
+
+10/03/2016
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 408006048 for future communication(9K).
+
+---------------APRIL 2016----------------
+04/04/2016
+IDBI to AXIS--->[8552]  Hot Payment Successful. Your Payment Confirmation Number is 72532598(22K)
+IDBI to HDFC--->[8552]  Hot Payment Successful. Your Payment Confirmation Number is 72532857(21K)
+IDBI to AMMA--->[8552]  Hot Payment Successful. Your Payment Confirmation Number is 72533144(2K)
+
+06/04/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 412817697 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 412818766 for future communication(9K).
+
+12/04/2016
+HDFC to CREDIT CARD--->Reference No.: 7873A1(19901.47/-)
+
+---------------MAY 2016----------------
+09/05/2016
+IDBI to AXIS--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 74922738(26K).
+IDBI to HDFC--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 74922972(6K).
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 74923100(2K).
+
+10/05/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 419064612 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 419065375 for future communication(9K).
+AXIS to Train Ticket---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 419066648 for future communication(800/-).
+HDFC to CREDIT CARD--->Reference No.: 4950A1(5,924.74/-)
+26/05/2016
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 75987904 (13K).
+
+---------------JUNE 2016----------------
+03/06/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 76522761(27K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 76522899(12K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 76523009(2K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 76523210(8K)
+
+06/06/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 423781461 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 423782654 for future communication(9K).
+HDFC to CREDIT CARD--->Reference No.: 4850A1(4766.68/-)
+
+---------------JULY 2016----------------
+01/07/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 78324133(25K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 78324589(20K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 78324871(2K)
+
+04/07/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 78512397(10K)
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 428784374 for future communication(5K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 428784590 for future communication(9K).
+IDBI to ANDB--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 428784853 for future communication(5K).
+
+11/07/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 79048295(2K).
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 430377528 for future communication(1500/-, Train tickets).
+HDFC to CREDIT CARD--->Reference No.:9736A1(17,531.22/-).
+
+25/07/2016
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 79960772(1K).
+
+---------------AUGUST 2016----------------
+01/08/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 80468423(24K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 80469168(12K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 80469459(2K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 80469678(5K)
+
+03/08/2016
+HDFC to CREDIT CARD--->Reference No.:0935A1(9,491.65/-)
+
+09/08/2016
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 435973821 for future communication(9K).
+
+29/08/2016
+Axis to WVSR Prasad---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 439314034 for future communication(40K)(For Plot).
+
+---------------SEPTEMBER 2016----------------
+01/09/2016
+
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 82684084(12K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 82684398(10K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 82684644(2K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 82684507(20K)
+
+02/09/2016
+IDBI to Burug--->[11051]  Funds Transfer is successful.Your Transaction No. is 17699911(750/-)
+IDBI to Janga--->[11051]  Funds Transfer is successful.Your Transaction No. is 17699939(500/-)
+
+06/09/2016
+HDFC to CREDIT CARD--->Reference No.:2901A1(7,715.44/-).
+
+07/09/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 441284483 for future communication(11K).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 441285189 for future communication(9K).
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 441285727 for future communication(680/-, Train tickets).
+IDBI to Nanda--->[11051]  Funds Transfer is successful.Your Transaction No. is 17762570(510/-, Tax filing)
+
+---------OCTOBER 2016----------
+04/10/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 85067381(22K)
+IDBI to AMMA--->[15056]  Hot Payment Successful. Your Payment Confirmation Number is 85067941(2K)
+
+05/10/2016
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 85202837(31K)
+
+08/10/2017
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 447493481 for future communication(11K).
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 447493525 for future communication(6330/-, Train Tickets).
+HDFC to CREDIT CARD--->Reference No.:0080A1(30,456.67/-).
+
+20/10/2016
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 449662295 for future communication(1600/-, Train Tickets).
+Axis to WVSR Prasad---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 449663001 for future communication(10K, For Plot).
+
+26/10/2016
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 450646682 for future communication(1526/-, Train Tickets).
+
+---------NOVEMBER 2016----------
+01/11/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 87121737(23K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 87121979(2K)
+
+02/11/2016
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 87194129(10K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is (5K)
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 87195252(5K)
+
+05/11/2016
+AXIS to Guravaiah---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 452871966 for future communication(11K).
+
+07/11/2016
+HDFC to CREDIT CARD--->Reference No.:	0846A1(7,496.23/-)
+
+16/11/2016
+IDBI to Srikanth--->[11051]  Funds Transfer is successful.Your Transaction No. is 18652349(500/-)
+
+
+---------DECEMBER 2016----------
+01/12/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 89473024(10K)
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 89473260(15K)
+IDBI to ANDB--->Hot Payment Successful. Your Payment Confirmation Number is 89473385(15K)
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 89473479(2K)
+
+03/12/2016
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 89624678(12K)
+
+07/12/2016
+AXIS to IDBI--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 459861384 for future communication(11K).
+IDBI to CHOUDHARY SHESHARAM--->Hot Payment Successful. Your Payment Confirmation Number is 89972024(1500/-,To Milk)
+AXIS to DMP School--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 459999285 for future communication(8900/-).
+AXIS to Bus Fee--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 460000716 for future communication(2700/-).
+
+12/12/2016
+HDFC to CREDIT CARD--->Reference No.:	7792A1(24,100.82/-)
+
+13/12/2016
+AXIS to HDFC--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 461393047 for future communication(1K).
+AXIS to Guravaiah---->By hand (10K)
+
+24/12/2016
+AXIS to IDBI--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 464055515 for future communication(4K).
+
+28/12/2016
+
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 464696144 for future communication(27400/- (Sep,Oct and Nov)).
+
+30/12/2016
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 465143398 for future communication(1550/-, Venkata Janaga Ticket).
+
+
+---------JANUARY 2017----------
+02/01/2017
+
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 92187663(16K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 92187878(28K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 92188191(2K)
+
+05/01/2017
+HDFC to CREDIT CARD--->Reference No.:0280A1(37,054.92/-)
+
+10/01/2017
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 468172165 for future communication(9.8K).
+
+11/01/2017
+IDBI to Venkata Janga--->[11051]  Funds Transfer is successful.Your Transaction No. is 19534199(766/-)
+
+16/01/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 469540491 for future communication(630/-, Venkata Janga Ticket).
+
+20/01/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 93925945(5920/-) from Naga
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 470424408 for future communication(5920/-for Naga Ticket).
+
+23/01/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 94101827(630/-+320/-) from Naga
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 470897423 for future communication(630/-for Naga Ticket).
+
+24/01/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 471155575 for future communication(630/-for Naga Ticket).
+
+30/01/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 472271314 for future communication(630/-for Naga Ticket).
+
+---------FEBRUARY 2017----------
+01/02/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 94842874(13K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 94843121(2K).
+IDBI TO CHOUDHARY SHESHARAM--->Hot Payment Successful. Your Payment Confirmation Number is 94843918(1500/- FOR MILK).
+
+01/02/17    IPAY/INST/NEFT/113051352/006001000022656    DR     1,500.00  (FOR MILK)
+
+02/02/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 94944520(40K).
+
+06/02/2017
+HDFC to CREDIT CARD--->Reference No.:	0567A1(25,712.10/-)
+
+08/02/2017
+IDBI to Guravaiah---->By hand (10.5K)
+
+09/02/2017
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 474957036 for future communication(9.8K).
+
+---------MARCH 2017----------
+01/03/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 97206113(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 97206417(2K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 97206789(15K).
+
+02/03/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 97335441(5K)
+
+09/03/2017
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 481138824 for future communication(9.8K).
+
+10/03/2017
+IDBI to Guravaiah---->By hand (10K)
+
+10/03/2017
+HDFC to CREDIT CARD--->Reference No.:	0037A1(44,454.92/-)
+
+18/03/2017
+IDBI to CHOUDHARY SHESHARAM--->Hot Payment Successful. Your Payment Confirmation Number is 98745228(2K).
+
+---------APRIL 2017----------
+03/04/2017
+IDBI to AXIS--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 100229708(11K).
+IDBI to HDFC--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 100229995(31K).
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 100230281(2K).
+IDBI TO GANESH v--->[11051]  Funds Transfer is successful.Your Transaction No. is 20739052(5350/-)
+
+10/04/2017
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 488357586 for future communication(9.8K).
+IDBI to Guravaiah---->By hand (10.5K)
+
+12/04/2017
+HDFC to CREDIT CARD--->Reference No.:	4178A1(39,500.74/-)
+
+-----------MAY 2017----------
+02/05/2017
+IDBI to AXIS--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 102575246(15K)
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 102575763(2K)
+
+03/05/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 102708329(45K)
+
+04/05/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 493420075 for future communication(2340/-).
+
+08/05/2017
+HDFC to CREDIT CARD--->Reference No.:	5673A1(50,393.15/-).
+
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 494361241 for future communication(9.8K).
+
+11/05/2017
+IDBI to JANGA--->[11051]  Funds Transfer is successful.Your Transaction No. is 21335115(10K)
+
+15/05/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 495876635 for future communication(1525.00/-, Annayya TKT).
+
+-----------JUNE 2017----------
+01/06/2017
+IDBI to AXIS--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 104969385(35K).
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 104969637(2K).
+
+02/06/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 105052309(29K).
+
+11/06/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 501537343 for future communication(10K, For Train tickets).
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 501538620 for future communication(9.8K).
+
+13/06/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 106050424(14K).
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 501967804 for future communication(3645/-, For Train tickets).
+
+14/06/2017
+HDFC to CREDIT CARD--->Reference No.:	8815A1(12,403.02/-)
+-----------JULY 2017----------
+03/07/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 107670688(12K).
+IDBI to AMMA--->[25009]  Hot Payment Successful. Your Payment Confirmation Number is 107671056(2K).
+IDBI to HDFC--->[25009]  Hot Payment Successful. Your Payment Confirmation Number is 107671378(36K)
+
+04/06/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 107805718(16K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 107806019(5K).
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 506193451 for future communication(7250/-).
+
+08/07/2017
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 507232486 for future communication(9.8K).
+
+12/07/2017
+ANDB to Kondoji Rao(Mama)--->Funds Transfer is successful.Your Transaction No. is 2946801(10K).2946801 	12/07/17 12:10 PM 	107010100027262 	044310011013654 	10,000.00.
+
+13/07/2017
+HDFC to CREDIT CARD--->Reference No.:	2380A1(52,183.43/-)
+
+-----------AUGUST 2017----------
+02/08/2017
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 110442794(50K).
+
+03/08/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 110540768(11K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 110541043(20K).
+
+09/08/2017
+HDFC to CREDIT CARD--->Reference No.:	IB09105044098574(32,426.00/-)
+AXIS to RENT---->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 514327466 for future communication(9.8K).
+
+23/08/2017
+Axis to Anil--->Success ! Your NEFT Transfer is Successful.Please note the Reference ID: 517199119 for future communication.(675/-)
+
+-----------SEPTEMBER 2017----------
+01/09/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 112908395(13K).
+
+04/09/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 113135537(34K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 113135888(2K).
+
+06/09/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 113361177(10K).
+IDBI to JANGA--->[11051]  Funds Transfer is successful.Your Transaction No. is 23006543(2675/-).
+
+07/09/2017
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 520712551 for future communication(9.8K).
+
+12/09/2017
+HDFC to CREDIT CARD--->Reference No.:	IB12163053779516(18,707.14/-).
+
+-----------OCTOBER 2017----------
+03/10/2017
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 115691460(34K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 115691728(2K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 115691933(12K).
+
+09/10/2017
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 527746915 for future communication(9.8K).
+HDFC to CREDIT CARD--->Reference No.:	IB09123115700691(20,414.36/-).
+
+18/10/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 117331819(3K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 529831812 for future communication(6020.00/-).
+
+28/10/2017
+AXIS TO SARATH KALE--->IMPS Fund Transfer request accepted.Please note the Reference ID: 531818304 for future communication(2.5K).
+
+30/10/2017
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 532091094 for future communication(2.7K).
+
+31/10/2017
+HDFC to TIRUPATAIAH KALE--->Reference Number	N304170398748658(50K).
+
+-----------NOVEMBER 2017----------
+HDFC to TIRUPATAIAH KALE--->Reference Number	N305170400384951(44.7K).
+
+03/11/2017
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 118778001(20K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 118778155(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 118778228(2K).
+
+08/11/2017
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 534638178 for future communication(9.8K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 534767701 for future communication(1450/-).
+
+09/11/2017
+HDFC to CREDIT CARD--->Reference No.:	IB09150218155073(6,391.00/-).
+
+IDBI TO JANGA VENKATA--->[11051]  Funds Transfer is successful.Your Transaction No. is 24268295(10K).
+
+-----------DECEMBER 2017----------
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 121856266(12K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 121856547(2K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 122115868(20K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 540909199 for future communication(1260/-)(SRINU TKT AMOUNT).
+
+08/12/2017
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 541572202 for future communication(9.8K).
+
+12/12/2017
+HDFC to CREDIT CARD--->Reference No.:	IB12111444881266(26,978.00/-).
+
+22/12/2017
+IDBI to MAMA---->Hot Payment Successful. Your Payment Confirmation Number is 123824414(5K).
+
+26/12/2017
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 545286929 for future communication(1560/-)(SRINU TKT AMOUNT).
+
+-----------JANUARY 2018----------
+02/01/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 124856252(13K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 124857076(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 124857390(2K).
+
+04/01/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 547485457 for future communication(9.8K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 547580721 for future communication(1.3K)(HARINATH).
+
+09/01/2018
+IDBI to MAMA---->Hot Payment Successful. Your Payment Confirmation Number is 125608263(3K).
+
+10/01/2018
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 549169859 for future communication(920/-)(HARI BABU).
+
+11/01/2018
+HDFC to CREDIT CARD--->Reference No.:	IB11103833974020(33,337.99/-).
+
+12/01/2018
+IDBI to KVN--->Hot Payment Successful. Your Payment Confirmation Number is 125995017(1K).
+
+-----------FEBRUARY 2018----------
+02/02/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 127986638(13K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 127987096(10K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 127987252(2K).
+AXIS TO MADHAVI --->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 554023312 for future communication(1650/-).
+
+08/02/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 555784571 for future communication(9.8K).
+
+14/02/2018
+HDFC to CREDIT CARD--->Reference No.: IB14151806945125(11,019.84/-).
+
+28/02/2018
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 130672585(29K).
+
+-----------MARCH 2018----------
+01/03/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 130825104(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 130825743(2K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 560123479 for future communication(9.8K).
+
+07/03/2018
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 561615681 for future communication(3910/-, HARI BABU+MINE).
+
+12/03/2018
+AXIS to HDFC---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 562871479 for future communication(50k).
+HDFC to CREDIT CARD--->Reference No.:	IB12163557324503(36,105.75/-).
+
+15/03/2018
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 563627678 for future communication(3650/-, Raja Rao & Co).
+
+-----------APRIL 2018----------
+02/04/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 134352714(14K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 134352988(2K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 134353389(20K).
+
+07/04/2018
+AXIS TO SUBBAIAH--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 568903375 for future communication(5K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 568904210 for future communication(9.8K).
+
+12/04/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 135500932(2325.00/-)
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 570148334 for future communication(2325.00/-).
+
+13/04/2018
+HDFC to CREDIT CARD--->Reference No.:	IB13151819863065(32,444.32/-).
+
+17/04/2018
+IDBI to YASH GOPI--->[11051]  Funds Transfer is successful.Your Transaction No. is 26435842(10800/-).
+
+18/04/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 136040377(20K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 571264017 for future communication(1800/-).
+
+-----------MAY 2018----------
+30/04/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 137245034(12K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 137245329(2K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 137245770(20K).
+
+07/05/2018
+HDFC TO RAMANAIAH--->Reference Number	N127180535238541(44K).
+HDFC TO SWATI--->Reference Number	N127180535248812(44K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 575628684 for future communication(9.8K).
+
+11/05/2018
+AXIS TO SUNNY--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 576716412 for future communication(10K).
+
+14/05/2018
+HDFC to CREDIT CARD--->Reference No.:	IB14135759688745(12,275.47/-).
+
+-----------JUNE 2018----------
+05/06/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 140734603(40K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 582256842 for future communication(4.35K).
+HDFC to AMMA--->Reference Number	N156180556339728(4K).
+AXIS TO AMIT SCHOOL FEES--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 582274657 for future communication(22.6K).
+AXIS TO AMIT BUS FEES--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 582275984 for future communication(2.7K).
+
+07/06/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 582987015 for future communication(9.8K).
+
+08/06/2018
+IDBI TO HARINATH--->[11051]  Funds Transfer is successful.Your Transaction No. is 27219321(300/-).
+
+11/06/2018
+HDFC to CREDIT CARD--->Reference No.:	IB11125546750743(29,061.27/-).
+
+-----------JULY 2018----------
+04/07/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 143748563(13K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 143748912(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 143749188(2K).
+Axis to Anil--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 589094218 for future communication(730/-).
+
+09/07/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 590406898 for future communication(9.8K).
+
+12/07/2018
+HDFC to CREDIT CARD--->Reference No.:	IB12142058938284(40,724.00/-).
+HDFC to AXIS--->Reference Number	N193180584952337(7K).
+Axis to KondojiRao--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 591272343 for future communication(2K).
+Axis to KVN--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 591273531 for future communication(3K).
+
+-----------AUGUST 2018----------
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 146635174(10K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 146635623(2K).
+IDBI to KondojiRao--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 146636069(3K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 146636549(30K).
+
+10/08/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 598279715 for future communication(9.8K).
+AXIS TO SUNNY--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 598281580 for future communication(10K).
+HDFC to CREDIT CARD--->Reference No.:	IB10164030750974(23,561.00/-).
+AXIS to HDFC--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 598286046 for future communication(2K).
+
+-----------SEPTEMBER 2018----------
+03/09/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 149754806(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 149755044(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 149755194(3K).
+
+04/09/2018
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 149906007(33.5K).
+
+06/10/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 604313447 for future communication(9.8K).
+
+10/09/2018
+HDFC to CREDIT CARD--->Reference No.:	IB10170107958210(19,463.00/-).
+
+-----------OCTOBER 2018----------
+01/10/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 152401727(13K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 152402068(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 152402234(3K).
+
+03/10/2018
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 152582546(25K).
+
+08/10/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 611766171 for future communication(9.8K).
+
+15/10/2018
+HDFC to CREDIT CARD--->Reference No.:	IB15170316951015(43,918.00/-)
+
+-----------NOVEMBER 2018----------
+05/11/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 155845824(13K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 155846219(3K).
+
+06/11/2018
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 155970969(27K).
+
+09/11/2018
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 619121249 for future communication(9.8K).
+
+13/11/2018
+HDFC to CREDIT CARD--->Reference No.:	IB13152015878167(26,920.00/-).
+
+-----------DECEMBER 2018----------
+03/12/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 158207186(13K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 158207528(2K).
+
+06/12/2018
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 158544219(15K).
+AXIS TO AMIT SCHOOL FEES--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 624980586 for future communication(10.5K).
+AXIS TO AMIT BUS FEES--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 624981671 for future communication(3.15K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 625013279 for future communication(9.8K).
+
+12/12/2018
+HDFC to CREDIT CARD--->Reference No.:	IB12104938778743(37,392.00/-).
+
+-----------JANUARY 2019----------
+04/01/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 161240007(30K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 161240315(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 161240521(3K).
+
+07/01/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 161485036(11K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 632262934 for future communication(9.8K).
+
+14/01/2019
+HDFC to CREDIT CARD--->Reference No.:	IB14145723151356(30,848.00/-).
+
+17/01/2019
+HDFC to AMEX CARD--->Reference Number	N017190728723900(16908.74/-).
+
+-----------FEBRUARY 2019----------
+04/02/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 164071204(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 164071553(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 164071687(3K).
+
+08/02/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 639666807 for future communication(9.8K).
+13/02/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 164939335(17K).
+HDFC to CREDIT CARD--->Reference No.:	IB13114323769590(17,336.00/-).
+HDFC to AMEX CARD--->Reference Number	N044190750589479(4,458.24/-).
+
+-----------MARCH 2019----------
+01/03/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 166511383(15K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 166511696(3K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 166511840(3K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 166512116(10K).
+
+06/03/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 167016821(13K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 645650923 for future communication(9.8K).
+
+13/03/2019
+HDFC to CREDIT CARD--->Reference No.:	IB13153540672192(57,307.00/-).
+HDFC to AMEX CARD--->Reference Number	N072190774552602(7,838.70/-).
+
+-----------APRIL 2019----------
+01/04/2019
+IDBI to AXIS--->[8504]  Hot Payment Successful. Your Payment Confirmation Number is 169676393(13K).
+IDBI to AMMA--->[8504]  Hot Payment Successful. Your Payment Confirmation Number is 169676766(2K).
+IDBI to KondojiRao--->[8504]  Hot Payment Successful. Your Payment Confirmation Number is 169676939(3K).
+
+03/04/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 169883541(25K).
+
+08/04/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 653735723 for future communication(9.8K).
+AXIS to AMIT_BUS_FEES---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 653736909 for future communication(3.15K).
+
+12/04/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 170821585(50K).
+HDFC to CREDIT CARD--->Reference No.:	IB1215274130658922(46,622.00/-).
+HDFC to AMEX CARD--->Reference Number	N102190800828868(11,936.06/-).
+
+-----------MAY 2019----------
+03/05/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 172766116 (14K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 172766346(11K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 172766578(4K).
+IDBI to GOPI--->[11051]  Funds Transfer is successful.Your Transaction No. is 31413527(10K).
+
+08/05/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 660735170 for future communication(9.8K).
+HDFC to CREDIT CARD--->Reference No.:	IB08131349753533(17,706.00/-).
+HDFC to AMEX CARD--->Reference Number	N128190820714422(3326.00/-).
+
+22/05/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 174503486(5K).
+
+-----------JUNE 2019----------
+03/06/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 175529797(15K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 175530022(2K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 175530227(20K).
+
+05/06/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 666915004 for future communication(9.8K).
+
+07/06/2019 :-58000/-Deposited to IDBI bank
+IDBI to HDFC--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 175967669(50K).
+
+11/06/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 176358636(9K).
+
+13/06/2019
+HDFC to CREDIT CARD--->Reference No.:	IB13200725616090(65,794.00/-).
+HDFC to AMEX CARD--->The User Reference Number for your transaction is : 916420126565.
+The RRN Reference Number for your transaction is : 916420108869.(9796.47/-)
+
+-----------JULY 2019----------
+01/07/2019
+IDBI to AXIS--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 178125684(24K).
+IDBI to AMMA--->[25004]  Hot Payment Successful. Your Payment Confirmation Number is 178125845(2K).
+
+10/07/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 675126442 for future communication(9.8K).
+
+15/07/2019
+AXIS to HDFC--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 676182399 for future communication(30K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 179449831(20K).
+HDFC to CREDIT CARD--->Reference No.:	IB15185701102157(50,986.00/-).
+HDFC to AMEX CARD--->Reference Number	N197190877491015(14507.25/-).
+
+-----------AUGUST 2019----------
+02/08/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 181121074(20K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 181121340(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 181121525(3K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 181121711(20K).
+
+06/08/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 681307586 for future communication(9.8K).
+
+08/08/2019
+HDFC to CREDIT CARD--->Reference No.:	IB08170602357035(10,895.00/-).
+HDFC to AMEX CARD--->Reference Number	N220190897863343(6358.50/-).
+
+-----------SEPTEMBER 2019----------
+03/09/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 184032424(13K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 184032740(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 184032909(3K).
+
+09/09/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 184614965(26K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 689151448 for future communication(9.8K).
+AXIS to HDFC--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 689153125 for future communication(9K).
+
+10/09/2019
+HDFC to CREDIT CARD--->Reference No.:	IB10105204310059(18,045.00/-).
+HDFC to AMEX CARD--->Reference Number	N253190924331408(17,907.00/-).
+
+-----------OCTOBER 2019----------
+04/10/2019
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 186944460(15K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 186943702(2K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 186944164(3K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 186944919(25K).
+
+09/10/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 696098683 for future communication(9.8K).
+
+11/10/2019
+HDFC to CREDIT CARD--->Reference No.:	IB11123637980083(18,173.00/-).
+AXIS to HDFC--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 696566628 for future communication(9K).
+HDFC to AMEX CARD--->Reference Number	N284190951837390(15,792.00/-).
+
+-----------NOVEMBER 2019----------
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 189917565(3K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 189918019(23K).
+
+11/11/2019
+AXIS to HDFC--->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 703365221 for future communication(40K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 703366375 for future communication(9.8K).
+
+13/11/2019
+HDFC to CREDIT CARD--->Reference No.:	IB13103420366067(61,335.00/-).
+HDFC to AMEX CARD--->Reference Number	N317190980112341(10,859.00/-).
+
+18/11/2019
+IDBI to CNRB--->Hot Payment Successful. Your Payment Confirmation Number is 191110395(17K).
+
+-----------DECEMBER 2019----------
+03/12/2019
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 192544253(33K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 192544509(3K).
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 192544928(10K).
+
+11/12/2019
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 710321924 for future communication(9.8K).
+
+13/12/2019
+HDFC to CREDIT CARD--->Reference No.:	IB13121024822085(23,978.00/-).
+HDFC to AMEX CARD--->Reference Number	N347191008177006(8,985.66/-).
+
+-----------JANUARY 2020----------
+02/01/2020
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 195262632(14K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 195262994(3K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 195263136(3K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 195263440(20K).
+
+08/01/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 716483579 for future communication(9.8k).
+
+13/01/2020
+HDFC to CREDIT CARD--->Reference No.:	IB13115150822968(40,953.00/-).
+
+-----------FEBRUARY 2020----------
+03/02/2020
+IDBI to AXIS--->Hot Payment Successful. Your Payment Confirmation Number is 198314412(29K).
+IDBI to AMMA--->Hot Payment Successful. Your Payment Confirmation Number is 198314614(3K).
+IDBI to KondojiRao--->Hot Payment Successful. Your Payment Confirmation Number is 198314777(3K).
+IDBI to HDFC--->Hot Payment Successful. Your Payment Confirmation Number is 198315068(14K).
+
+10/02/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 723751795 for future communication(9.8K).
+
+14/02/2020
+HDFC to CREDIT CARD--->Reference No.:	IB14124336907361(33,039.00/-).
+
+-----------MARCH 2020----------
+03/03/2020
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2600172666](15K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2600173596](3K).
+
+05/03/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2600511224](3K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2600512346](23K).
+
+12/03/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 731055156 for future communication(11.5K).
+AXIS to 3RDTERMCHANMUDRABUSFEES---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 731057035 for future communication(6K).
+
+13/03/2020
+HDFC to CREDIT CARD--->Reference No.:	IB13145013808377(50,757.00/-).
+
+-----------APRIL 2020----------
+03/04/2020
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2604274902](15K).
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2604275284](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2604275604](3K).
+
+07/04/2020
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2604683872](39K)
+
+10/04/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 736206170 for future communication(11.5K).
+
+13/04/2020
+HDFC to CREDIT CARD--->Reference No.:	IB13114134947050 (33,830.00/-)
+
+
+-----------MAY 2020----------
+04/05/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2607171732](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2607172246](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2607173068](30K).
+
+09/05/2020
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2607847928](10K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 740692855 for future communication(11.5K).
+
+13/05/2020
+HDFC to CREDIT CARD--->Reference No.:	IB13105821776584(4,189.00/-)
+
+19/05/2020
+AXIS to SSWSCHOOL (AMIT FEE)---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 742421121 for future communication(17.75K).
+
+-----------JUNE 2020----------
+01/06/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2610850552](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2610851112](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2610857988](20K).
+
+08/06/2020
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2612093138](19K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 746245007 for future communication(11.5K).
+
+16/06/2020
+HDFC to CREDIT CARD--->Reference No.:	IB16075502835180(16,523.00/-).
+
+-----------JULY 2020----------
+01/07/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2616150656](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2616151352](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2616152206](20K).
+AXIS to SSWSCHOOL (AMIT FEE)---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 750651808 for future communication(17.75K).
+
+06/07/2020
+IDBI to HDFC--->You have 1 Success Message[100750] The transaction with reference ID is processed successfully. Ref. ID: [2617149618](19K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 751853264 for future communication(11.5K).
+
+07/07/2020
+HDFC to CREDIT CARD--->Reference No.:	IB07094743579194(26,255.00/-).
+
+-----------AUGUST 2020----------
+03/08/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2622533730](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2622534296](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2622534890](20K).
+
+10/08/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 759316805 for future communication(11.5K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2623853358](19K).
+
+12/08/2020
+HDFC to CREDIT CARD--->Reference No.:	IB12172126162546(14,486.00).
+24/08/2020
+HDFC to CNRB CAR LOAN--->Reference Number	N237201221552737(9630/-).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2626491556](40K).
+
+-----------SEPTEMBER 2020----------
+02/09/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2628083510](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2628083814](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2628084132](20K).
+
+08/09/2020
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2629843214](19K)
+
+09/09/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 765867532 for future communication(11.5K).
+HDFC to CREDIT CARD--->Reference No.:	IB09131051839751(73,975.00/-).
+IDBI to SAI WATER SUPPLIER--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2630053010](1K).
+
+11/09/2020
+IDBI to SAI WATER SUPPLIER--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2630526110](49K).
+
+-----------OCTOBER 2020----------
+01/10/2020
+DBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2634841026](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2634841498](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2634841928](20K).
+
+08/10/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 772480756 for future communication(11.5K).
+
+12/10/2020
+HDFC to CREDIT CARD--->Reference No.:	IB12152920581387(29,734.00/-).
+
+-----------NOVEMBER 2020----------
+02/11/2020
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2642405894](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2642406680](6K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2642407332](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2642408284](19K).
+
+10/11/2020
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 779828992 for future communication(11.5K).
+HDFC to CREDIT CARD--->Reference No.:	IB10100516765349(14,389.00/-).
+
+
+-----------DECEMBER 2020----------
+01/12/2020
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2648801720](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2648801848](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2648802078](30K).
+
+10/12/2020
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2651194180](30K).
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2651194232](3K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 786341245 for future communication(11.5K).
+
+11/12/2020
+HDFC to CREDIT CARD--->Reference No.:	IB11161948669660(43,826.00/-).
+
+23/12/2020
+AXIS to CNRB--->IMPS Fund Transfer request accepted.Please note the Reference ID: 789157437 for future communication(16630/-).
+
+-----------JANUARY 2021----------
+05/01/2021
+AXIS to AMOL---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 792052258 for future communication(500/-).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2657519400](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2657519738](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2657519950](30K).
+AXIS to AMOL---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 792097311 for future communication(19.5K).
+
+06/01/2021
+AXIS to AMOL---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 792343401 for future communication(80K).
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 792343989 for future communication(11.5K).
+
+07/01/2021
+HDFC to CREDIT CARD--->Reference No.:	IB07072424163526(28,295.00/-)
+
+
+-----------FEBRUARY 2021----------
+03/02/2021
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2664694570](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2664694640](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2664694740](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2664694932](45K).
+IDBI to ANDB--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2664695038](100/-).
+
+09/02/2021
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 800092891 for future communication(11.5K).
+
+13/02/2021
+HDFC to CREDIT CARD--->Reference No.:	IB13062013331284(93,267.00/-)
+
+17/02/2021
+AXIS to CNRB---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 801942462 for future communication(17K).
+
+-----------MARCH 2021----------
+27/02/2021
+IDBI to AMMA--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2670823508](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2670823596](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2670823634](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2670823680](22K).
+IDBI to ANDB--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2670823716](0.1K)
+
+06/03/2021
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 805825258 for future communication(11.5K).
+HDFC to CREDIT CARD--->Reference No.:	IB06071800851217(30,210.00/-)
+
+15/03/2021
+AXIS to AMIT FEE---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 807931747 for future communication(14750/-).
+
+-----------APRIL 2021----------
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2679904004](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2679904854](20K).
+
+05/04/2021
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2680552410](3K).
+IDBI to AMMA(VADINA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2680555314](3K).
+
+08/04/2021
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 813388271 for future communication(11.5K).
+
+13/04/2021
+HDFC to CREDIT CARD--->Reference No.:	IB13062546291562(261,039.00/-)
+
+22/04/2021
+AXIS to CNRB---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 816238833 for future communication(15.5K).
+
+-----------MAY 2021----------
+03/05/2021
+IDBI to AMMA(VADINA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2686230174](3K).
+DBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2686230440](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2686231390](23K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2686230974](23K).
+
+08/05/2021
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 819561641 for future communication(11.5K).
+
+12/05/2021
+HDFC to CREDIT CARD--->Reference No.:	IB12110239067157(23,854.00/-)
+
+24/05/2021
+AXIS to CNRB---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 822404540 for future communication(15.5K).
+
+-----------JUNE 2021----------
+02/06/2021
+IDBI to AMMA(VADINA)--->Reference ID:2691650884(3K).
+IDBI to KondojiRao--->Reference ID:2691651224(3K).
+IDBI to AXIS--->Reference ID:2691651680(45K).
+IDBI to ANDB--->Reference ID:2691652076(100/-)
+
+09/06/2021
+AXIS to RENT---->Success ! Your request for Fund transfer submitted successfully.Please note the Reference ID: 825742370 for future communication(11.5K).
+
+14/06/2021
+HDFC to CREDIT CARD--->Reference No.:	IB14160707689223(108,093.00/-).
+
+-----------JULY 2021----------
+05/07/2021
+IDBI to KondojiRao--->Reference ID:2698381796(3K).
+IDBI to AXIS--->Reference ID:2698382822(10K).
+IDBI to HDFC--->Reference ID:2698382308(36K).
+
+09/07/2021
+AXIS to RENT---->Reference No: QH7JHQ2K1985(11.5K).
+
+12/07/2021
+HDFC to CREDIT CARD--->Reference No.:IB12070450941775 (35,627.00/-).
+
+-----------AUGUST 2021----------
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2704588566](6K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2704589008](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2704589340](24K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2704589540](20K).
+
+09/08/2021
+AXIS to RENT---->Reference No: E51CJIXQ7904(11.5K).
+HDFC to CREDIT CARD--->Reference No.:IB09062408683223 (14,444.00/-).
+
+-----------SEPTEMBER 2021----------
+02/09/2021
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2710535794](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2710536074](40K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2710536282](20K).
+
+06/09/2021
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2711445378](3K).
+AXIS to RENT---->Reference No: 5FLAA97Y8733(11.5K).
+HDFC to CREDIT CARD--->Reference No.:	IB06164328080460(18,688.00/-).
+
+-----------OCTOBER 2021----------
+02/10/2021
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2716430764] (3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2716430920](30K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2716433776](24K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2716433104](3K).
+
+09/10/2021
+AXIS to RENT---->Reference No: OQKJ81M24964(11.5K)
+HDFC to CREDIT CARD--->Reference No.:	IB09063908772579(21,759.00/-)
+
+-----------NOVEMBER 2021----------
+01/11/2021
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2722691140](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2722691940](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2722694602](25K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2722693566](22K).
+
+08/11/2021
+AXIS to RENT---->Reference No: JAG3GNFB1035(11.5K).
+AXIS to CHANMUDRA FEES---->Reference No: 809B7EEJ3863(23.4K).
+
+13/11/2021
+HDFC to CREDIT CARD--->Reference No.:	IB13120057130339(121,476.00/-).
+
+-----------DECEMBER 2021----------
+01/12/2021
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2728268202](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2728268824](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2728270286](30K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2728270914](20K).
+
+09/12/2021
+AXIS to RENT---->Reference No: MC4459NU5356(11.5K).
+
+16/12/2021
+HDFC to CREDIT CARD--->Reference No.:	IB16101556344308(36,926.00/-)
+
+-----------JANUARY 2022----------
+05/01/2022
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2735603310](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2735603658](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2735603982](25K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2735604370](25K).
+
+10/01/2022
+AXIS to RENT---->Reference No: 5DEJU7T48362(11.5K).
+HDFC to CREDIT CARD--->Reference No.:	IB10063931346059(26,952.00/-)
+
+-----------FEBRUARY 2022----------
+31/01/2022
+IDBI to AMMA(AKKA)--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2741025856](3K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2741026436](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2741027160](25K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2741027968](25K).
+
+10/02/2022
+AXIS to RENT---->Reference No: QK1JBO8G5523(11.5K).
+
+14/02/2022
+HDFC to CREDIT CARD--->Reference No.:	IB14093425772615(166,947.00/-)
+
+-----------MARCH 2022----------
+03/03/2022
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2747398220](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2747398302](20K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2747398356](30K).
+
+09/03/2022
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2748908954](20K)
+AXIS to RENT---->Reference No: ZNSEN80E6804(11.5K)
+
+13/03/2022
+HDFC to CREDIT CARD--->Reference No.:	IB13051934666999(69,659.00/-).
+
+-----------APRIL 2022----------
+01/04/2022
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2754239370](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2754239390](40K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2754239410](20K).
+
+04/04/2022
+HDFC to CREDIT CARD--->Reference No.:	IB04052858573112(76,377.00/-).
+
+09/04/2022
+AXIS to RENT---->Reference No: 6OCPUFUH6184(8.5K+3K Cash).
+
+-----------MAY 2022----------
+02/05/2022
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2760377370](3K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2760377426](38K).
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2760377394](22K).
+AXIS to AMMA(VRKALE ANNA)--->Reference No: F9BQ60D55877(11.956K)+4544+1750.
+
+09/05/2022
+AXIS to RENT---->Reference No: HY1GP0F57962(11.5K).
+HDFC to CREDIT CARD--->Reference No.:	IB09184104673156(70,956.00/-).
+
+-----------JUNE 2022----------
+09/06/2022
+AXIS to RENT---->Reference No: 51LNXVM19282(11.5K).
+
+14/06/2022
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2768713342](20K).
+HDFC to CREDIT CARD--->Reference No.:	IB14122543577382(19,150.00/-).
+
+-----------JULY 2022----------
+02/07/2022
+IDBI to HDFC--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2772294014](40K).
+IDBI to AXIS--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2772294560](30K).
+IDBI to KondojiRao--->[100750] The transaction with reference ID is processed successfully. Ref. ID: [2772295398](3K).
+
+09/07/2022
+AXIS to RENT---->Reference No: MGB57X3G9711(11.5K).
+
+13/07/2022
+HDFC to CREDIT CARD--->Reference No.:	IB13115221578208(22,666.00/-).

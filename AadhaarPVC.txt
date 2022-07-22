@@ -1,0 +1,23 @@
+AADHAAR CARD PAYMENT RECEIPT
+SWATI - 866407259680
+Service Request Number (SRN) 0510202007345119283785561871
+Receipt Number 11260521937
+Transaction ID 9fe39494a65309eaeba6
+Paid Amount (INR) 50.00
+Masked Aadhaar Number/EID xxxxxxxx9680
+Transaction Status success
+UIDAI GST Number 07AAAGU0182Q1ZS
+
+PKKALE - 397310200484
+AADHAAR CARD PAYMENT RECEIPT
+Service Request Number (SRN) 0510202007302419283798628803
+Receipt Number 11260506875
+Transaction ID 5b0962c78cfa58baa00d
+Paid Amount (INR) 50.00
+Masked Aadhaar Number/EID xxxxxxxx0484
+Transaction Status success
+UIDAI GST Number 07AAAGU0182Q1ZS
+
+
+BGPPJ7546E
+866407259680

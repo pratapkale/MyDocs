@@ -1,0 +1,68 @@
+@CHARSET "ISO-8859-1";
+
+.headeroutercontainer {
+	height:100px;
+	background-image:url("../images/header.png");
+	background-repeat:no-repeat;
+}
+.footeroutercontainer {
+	height:100px;
+}
+.menuoutercontainer{
+	height:32px;
+	background-image:url("../images/menurun.png");
+	background-repeat:repeat-x;
+}
+.footeroutercontainer{
+	height:32px;
+	background-image:url("../images/menurun.png");
+	background-repeat:repeat-x;
+}
+.formMainUL{
+    width:320px;
+    float:left;
+
+}
+.leftFormLI{
+    float:left; width:140px; height:30px;
+    font-family:arial;
+    font-size:12px;
+}
+.rightFormLI{
+    float:left; width:150px; height:30px;
+}
+.required{
+    color:#FE0303;
+}
+input{
+	border:1px solid #a8c5e9;
+}
+textarea{
+	border:1px solid #a8c5e9;
+}
+file{
+	border:1px solid #a8c5e9;
+
+	}
+}
+.trmain{
+	height:40px; border:1px solid #000000;
+}
+.brright{
+	border-right:1px solid #000000;
+}
+.brleft{
+	border-left:1px solid #000000;
+}
+.brtop{
+	border-top:1px solid #000000;
+}
+.brbottom{
+	border-bottom:1px solid #000000;
+}
+.tdmain{
+	padding:5px;
+}
+.menutab{
+	float:left; width:auto; display:block; height:25px;
+}

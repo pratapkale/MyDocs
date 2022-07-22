@@ -1,0 +1,38 @@
+https://jenkins.io/download/
+
+Click on Redhat/Centis
+
+sudo wget -O /etc/yum.repos.d/jenkins.repo https://pkg.jenkins.io/redhat-stable/jenkins.repo
+sudo rpm --import https://pkg.jenkins.io/redhat-stable/jenkins.io.key
+
+yum install jenkins
+
+yum install java
+systemctl enable jenkins
+
+systemctl start jenkins	
+
+
+yum install java -y
+
+systemctl start jenkins
+
+systemctl status jenkins
+
+yum install telnet
+
+sudo yum install epel-release
+
+yum install nginx
+
+systemctl enable nginx
+systemctl start nginx	
+
+ps -ef | grep jenkins
+
+netstat   -lntp
+
+access localhost:8080 or ipaddress:8080
+
+
+
